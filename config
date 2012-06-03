@@ -3,7 +3,7 @@
 #
 # See LICENSE file for copyright and license details
 
-DEB_MIRROR=http://ftp.uk.debian.org/debian
+DEB_MIRROR=http://mirror.ece.auckland.ac.nz/debian
 NBD_DEV=/dev/nbd0
 BOOT_DEV="$NBD_DEV"p1
 ROOT_DEV="$NBD_DEV"p2
